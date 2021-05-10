@@ -25,6 +25,15 @@
                                     <action selector="Click_MoveBtn:" destination="2Xh-GA-5xa" eventType="touchUpInside" id="6XN-2H-Ner"/>
                                 </connections>
                             </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="PSD-PE-2uF">
+                                <rect key="frame" x="174" y="478" width="70" height="36"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                                <state key="normal" title="Move_2"/>
+                                <connections>
+                                    <action selector="Click_MoveBtn:" destination="2Xh-GA-5xa" eventType="touchUpInside" id="6Ea-Sc-I13"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="638-Af-dbn"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
