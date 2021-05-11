@@ -104,7 +104,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 0143D3392646C346000B7C6A /* Build configuration list for PBXProject "HelloSwiftProject" */;
+			buildConfigurationList = 0143D3392646C346000B7C6A /* Build configuration list for PBXProject "NavigationBar+MoveBtn" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -290,7 +290,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 4HRD4YT6SL;
 				INFOPLIST_FILE = HelloSwiftProject/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -298,6 +300,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = KimKwangHee.HelloSwiftProject;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -308,7 +311,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 4HRD4YT6SL;
 				INFOPLIST_FILE = HelloSwiftProject/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -316,6 +321,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = KimKwangHee.HelloSwiftProject;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -324,7 +330,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0143D3392646C346000B7C6A /* Build configuration list for PBXProject "HelloSwiftProject" */ = {
+		0143D3392646C346000B7C6A /* Build configuration list for PBXProject "NavigationBar+MoveBtn" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0143D3502646C346000B7C6A /* Debug */,
